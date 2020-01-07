@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainPage Component renders component correctly 1`] = `
+<div
+  className="tc"
+>
+  <Header />
+  <SearchBox />
+  <Scroll>
+    <ErrorBoundary>
+      <CardList
+        pets={Array []}
+      />
+    </ErrorBoundary>
+  </Scroll>
+</div>
+`;

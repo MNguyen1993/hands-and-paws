@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Card component 1`] = `
+<div
+  className="tc bg-light-blue dib br3 pa3 ma2 grow ba bw2 shadow-5"
+>
+  <img
+    alt="profile"
+    src="https://robohash.org/undefined?size=250x250&set=set4"
+  />
+  <div>
+    <h2 />
+    <p />
+  </div>
+</div>
+`;

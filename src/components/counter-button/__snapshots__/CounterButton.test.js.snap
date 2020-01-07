@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CounterButton Component CounterButton component renders correctly 1`] = `
+<button
+  className="b--none bg-light-blue br2 pa2 pointer"
+  color="blue"
+  onClick={[Function]}
+>
+  Adopted Pets: 
+  0
+</button>
+`;
